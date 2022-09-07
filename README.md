@@ -1,4 +1,4 @@
-# alex-app
+# sinau5-app
 
 ## Project setup
 ```
